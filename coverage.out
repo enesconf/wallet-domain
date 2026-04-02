@@ -1,0 +1,26 @@
+mode: atomic
+github.com/charlestest/wallet-domain/internal/domain/errors.go:26.51,31.2 1 1
+github.com/charlestest/wallet-domain/internal/domain/errors.go:34.51,36.2 1 2
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:28.76,29.24 1 16
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:29.24,31.3 1 1
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:32.2,37.3 1 16
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:42.37,42.52 1 1
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:43.37,43.57 1 1
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:44.37,44.57 1 13
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:45.37,45.56 1 1
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:46.37,46.72 1 1
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:60.46,61.17 1 4
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:61.17,63.3 1 2
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:64.2,64.30 1 2
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:64.30,66.3 1 1
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:67.2,68.12 2 1
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:77.47,78.17 1 8
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:78.17,80.3 1 3
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:81.2,81.30 1 5
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:81.30,83.3 1 1
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:84.2,84.24 1 4
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:84.24,89.3 1 2
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:90.2,91.12 2 2
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:96.33,97.30 1 6
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:97.30,99.3 1 1
+github.com/charlestest/wallet-domain/internal/domain/wallet.go:100.2,101.12 2 5
