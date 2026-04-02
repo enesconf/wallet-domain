@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/charlestest/wallet-domain/internal/domain"
+	"github.com/enesconf/wallet-domain/internal/domain"
 )
 
 func main() {
